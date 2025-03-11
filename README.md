@@ -2,7 +2,7 @@
 
 This is a MacOS app for [Bog's video](https://www.youtube.com/watch?v=vlXdUU5pd_0). Hotkey is `cmd + shift + A`.
 
-### Install
+## Install
 
 ```zsh
 python3 -m venv venv
